@@ -30,17 +30,5 @@ This project addresses three key research questions:
 * **Source:** "IEEE-CIS Fraud Detection" dataset from Kaggle, provided by Vesta.
 * **Size:** Over 140,000 transactions with 434 features (transaction details, card information, addresses, Vesta-engineered features).
 
-## Dependencies
-* Python 3.x
-* Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
-
-## Usage
-1. Clone the repository.
-2. Install the required dependencies.
-3. Run the Jupyter notebooks provided for data exploration, model training, and evaluation.
-
-## License
-[Specify your chosen license, e.g., MIT License]
-
 ## Contact
 Cem Kazan - kzncem@gmail.com# fraud-detection-ml
